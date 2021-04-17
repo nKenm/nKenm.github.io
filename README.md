@@ -1,4 +1,4 @@
-# hello
-This program set outs the basic on how to create a repository. The Program will output "Hello World"
+# Hello this is classwork.
+Learning the basics. 
 
 I am editing with Atom
